@@ -1,0 +1,30 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "name": "Berserk",
+      "description": "Berserk is the history of the Dark Swordsman",
+      "price": "400.00"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "name": "Kimetsu no Yaiba",
+      "description": "Tanjirou would have to fight against a horde of demons to save her sister from a fatidicous fate",
+      "price": "500.00"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "name": "Homunculus",
+      "description": "A man is submitted to an experiment tha gave him the hability of see the true self of the people",
+      "price": "300.00"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "name": "Jagaaaaaaan",
+      "description": "The world is attacked from a lot of frenetic frogs that gave powers to the people and Jagaaaaaaan must stop it",
+      "price": "600.00"
+    }
+]
